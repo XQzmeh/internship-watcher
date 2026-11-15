@@ -1,0 +1,28 @@
+{
+  "filters": {
+    "title_keywords": ["intern", "internship", "co-op", "coop"],
+    "title_require_any": ["software", "develop", "engineer", "quant", "trading", "data", "machine learning", "ml", "ai",
+                          "research", "backend", "full stack", "platform", "infrastructure", "systems", "security", "robotics"],
+    "title_exclude": ["phd", "ph.d", "masters", "master's", "senior", "sr.", "director", "principal", "sales", "marketing",
+                      "recruit", "human resources", "mechanical engineer", "civil engineer", "chemical engineer",
+                      "spring 2027", "winter 2027", "fall 2027"],
+    "years": ["2027"],
+    "reject_cycle_phrases": ["summer 2026", "fall 2026", "spring 2026", "2026 intern", "- 2026", "(2026)"],
+    "location_exclude": ["india", "china", "singapore", "london", "amsterdam", "dublin", "sydney", "toronto"],
+    "location_keep_markers": ["new york", "ny", "chicago", "san francisco", "ca", "boston", "seattle", "austin", "remote - us", "united states"]
+  },
+  "firms": [
+    {"name": "vanshb03 Summer2027 tracker", "ats": "github_json",
+     "url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+     "cycle_year": "2027", "seasons": ["summer"]},
+    {"name": "Jane Street", "ats": "greenhouse", "token": "janestreet"},
+    {"name": "Five Rings", "ats": "greenhouse", "token": "fiveringsllc"},
+    {"name": "Optiver", "ats": "greenhouse", "token": "optiverus"},
+    {"name": "Anthropic", "ats": "greenhouse", "token": "anthropic"},
+    {"name": "Stripe", "ats": "greenhouse", "token": "stripe"},
+    {"name": "Figma", "ats": "greenhouse", "token": "figma"},
+    {"name": "Ramp", "ats": "ashby", "token": "ramp"},
+    {"name": "Notion", "ats": "ashby", "token": "notion"},
+    {"name": "Belvedere Trading", "ats": "lever", "token": "belvederetrading"}
+  ]
+}
