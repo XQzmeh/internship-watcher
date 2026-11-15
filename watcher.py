@@ -19,7 +19,8 @@ import requests
 CONFIG_FILE, SEEN_FILE, TIMEOUT = "config.json", "seen_jobs.json", 15
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36", "Accept": "application/json"}
+                         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36", "Accept": "application/json",
+           "Accept-Encoding": "gzip, deflate"}  # no zstd: some urllib3 builds fail to decode it
 
 
 def load_json(path, default):
@@ -89,8 +90,60 @@ def fetch_github_json(firm):
     return out
 
 
+def fetch_workday(firm):
+    """Workday boards (Intel, NVIDIA, most big hardware firms). Config needs host
+    (e.g. "intel.wd1"), tenant and site, taken from the careers URL
+    https://<host>.myworkdayjobs.com/<site>. Searches "intern", 20 per page."""
+    base = f"https://{firm['host']}.myworkdayjobs.com"
+    out, total = [], None
+    for page in range(firm.get("max_pages", 15)):
+        r = requests.post(f"{base}/wday/cxs/{firm['tenant']}/{firm['site']}/jobs", headers=HEADERS, timeout=TIMEOUT,
+                          json={"appliedFacets": {}, "limit": 20, "offset": page * 20, "searchText": "intern"})
+        r.raise_for_status()
+        d = r.json(); posts = d.get("jobPostings") or []
+        total = d.get("total") or total or 0   # Workday only reports total on the first page
+        for p in posts:
+            path = p.get("externalPath") or ""
+            out.append({"id": ((p.get("bulletFields") or [path])[0]), "title": p.get("title") or "",
+                        "location": p.get("locationsText") or "", "url": f"{base}/en-US/{firm['site']}{path}", "content": ""})
+        if len(posts) < 20 or (page + 1) * 20 >= total: break
+    return out
+
+
+def fetch_amazon(firm):
+    """amazon.jobs public search JSON, US intern postings."""
+    out = []
+    for offset in range(0, 1000, 100):
+        r = requests.get("https://www.amazon.jobs/en/search.json", headers=HEADERS, timeout=TIMEOUT,
+                         params={"base_query": "intern", "country": "USA", "result_limit": 100, "offset": offset})
+        r.raise_for_status()
+        d = r.json(); jobs = d.get("jobs") or []
+        out += [{"id": str(j.get("id_icims")), "title": j.get("title") or "", "location": j.get("normalized_location") or "",
+                 "url": "https://www.amazon.jobs" + (j.get("job_path") or ""), "content": (j.get("description") or "").lower()}
+                for j in jobs]
+        if len(jobs) < 100 or offset + 100 >= (d.get("hits") or 0): break
+    return out
+
+
+def fetch_jibe(firm):
+    """iCIMS Jibe career sites (AMD). Config: url = the careers site root, e.g. https://careers.amd.com"""
+    base, out = firm["url"].rstrip("/"), []
+    for page in range(1, 11):
+        r = requests.get(f"{base}/api/jobs", headers=HEADERS, timeout=TIMEOUT,
+                         params={"keywords": "intern", "page": page, "limit": 100})
+        r.raise_for_status()
+        d = r.json(); jobs = [x.get("data") or {} for x in d.get("jobs") or []]
+        out += [{"id": str(j.get("req_id") or j.get("slug")), "title": j.get("title") or "",
+                 "location": j.get("full_location") or j.get("location_name") or "",
+                 "url": f"{base}/careers-home/jobs/{j.get('slug') or j.get('req_id')}", "content": (j.get("description") or "").lower()}
+                for j in jobs]
+        if len(jobs) < 100 or len(out) >= (d.get("totalCount") or 0): break
+    return out
+
+
 FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby,
-            "workable": fetch_workable, "github_json": fetch_github_json}
+            "workable": fetch_workable, "github_json": fetch_github_json,
+            "workday": fetch_workday, "amazon": fetch_amazon, "jibe": fetch_jibe}
 
 
 # --------------------------------- filters ---------------------------------- #
@@ -182,7 +235,8 @@ def main():
     with ThreadPoolExecutor(max_workers=12) as pool:   # keep this parallel; 200 boards serially takes an hour
         results = list(pool.map(poll, firms))
     for firm, jobs in results:
-        rel = [j for j in jobs if is_relevant(j, f)]
+        ff = {**f, **firm.get("filters", {})}   # per-firm overrides, e.g. generic "Intern" titles
+        rel = [j for j in jobs if is_relevant(j, ff)]
         print(f"  ok {firm['name']}: {len(jobs)} jobs, {len(rel)} relevant")
         for j in rel:
             key = (j.get("url") or f"{firm['name']}:{j['id']}").strip().lower()
