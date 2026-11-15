@@ -1,2 +1,6 @@
 preview.html
 __pycache__/
+
+# Personal info - keep local, never push to a public repo
+resumes/
+applications.md
