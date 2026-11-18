@@ -972,8 +972,8 @@
     "url": "https://go.vansh.nyc/ff"
   },
   "https://go.vansh.nyc/fh": {
-    "title": "Medicaid Data Analytics Intern",
-    "url": "https://go.vansh.nyc/fh"
+    "title": "Digital Design Engineer Intern",
+    "url": "https://go.vansh.nyc/Fh"
   },
   "https://go.vansh.nyc/fm": {
     "title": "Data Science Intern, Innovation & Technology",
@@ -3160,12 +3160,12 @@
     "url": "https://go.vansh.nyc/1bu"
   },
   "https://go.vansh.nyc/1bb": {
-    "title": "Software Engineer Intern, IT Retail Media",
-    "url": "https://go.vansh.nyc/1bB"
+    "title": "AI Research Launch Intern",
+    "url": "https://go.vansh.nyc/1BB"
   },
   "https://go.vansh.nyc/1bc": {
-    "title": "Software Engineer Intern, International Depot",
-    "url": "https://go.vansh.nyc/1bC"
+    "title": "Software and AI Engineering Intern",
+    "url": "https://go.vansh.nyc/1BC"
   },
   "https://go.vansh.nyc/1bh": {
     "title": "Undergraduate Program AI Engineer Intern, Enterprise Technology Services",
@@ -13150,5 +13150,69 @@
   "https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008": {
     "title": "Product & Test Engineering, Intern Summer 2027",
     "url": "https://boards.greenhouse.io/lightmatter/jobs/5474690008?gh_jid=5474690008"
+  },
+  "https://go.vansh.nyc/1c1": {
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1C1"
+  },
+  "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688": {
+    "title": "Software Engineer Intern - Electronic Systems",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688"
+  },
+  "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008": {
+    "title": "Data Analytics Intern",
+    "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008"
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5274037007": {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007"
+  },
+  "https://www.metacareers.com/jobs/1110284504699535": {
+    "title": "Visiting Researcher Intern - AI Mentorship Program",
+    "url": "https://www.metacareers.com/jobs/1110284504699535"
+  },
+  "https://apply.workable.com/falcomm/j/64d0e86efe/apply": {
+    "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
+    "url": "https://apply.workable.com/falcomm/j/64D0E86EFE/apply"
+  },
+  "https://apply.workable.com/falcomm/j/41f139e6f7/apply": {
+    "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
+    "url": "https://apply.workable.com/falcomm/j/41F139E6F7/apply"
+  },
+  "https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true": {
+    "title": "Research Intern",
+    "url": "https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true"
+  },
+  "https://jobs.jobvite.com/ross-video-careers/job/o51qafwg?nl=1&nl=1&fr=false": {
+    "title": "Research Assistant Co-op - AI Focus",
+    "url": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false"
+  },
+  "https://boards.greenhouse.io/lightmatter/jobs/5474690008": {
+    "title": "Product & Test Engineering Intern",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5474690008"
+  },
+  "https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply": {
+    "title": "Robotics & Physical AI Intern",
+    "url": "https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply"
+  },
+  "https://jobs.paccar.com/job/denton-2027-summer-internship-data-scientist-tx-76205-7864/1458178433/?ats=successfactors": {
+    "title": "Data Scientist Intern",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors"
+  },
+  "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us": {
+    "title": "AI & Automation Intern",
+    "url": "https://careers.bissell.com/jobs/9995?icims=1&lang=en-us"
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393557075074": {
+    "title": "Research Intern - Frontier Tuning",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074"
+  },
+  "https://qualcomm.eightfold.ai/careers/job/446722176432": {
+    "title": "AI/Machine Learning Intern - Interim Engineering Intern - SW",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446722176432"
+  },
+  "https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6": {
+    "title": "Data Acquisition & Quality Specialist Intern",
+    "url": "https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6"
   }
 }
