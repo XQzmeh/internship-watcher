@@ -3220,12 +3220,12 @@
     "url": "https://go.vansh.nyc/1c6"
   },
   "https://go.vansh.nyc/1c7": {
-    "title": "Software Development Intern, Digital Grid Management",
-    "url": "https://go.vansh.nyc/1c7"
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://go.vansh.nyc/1C7"
   },
   "https://go.vansh.nyc/1c9": {
-    "title": "Software Engineering Intern, Technology",
-    "url": "https://go.vansh.nyc/1c9"
+    "title": "Information Security Intern",
+    "url": "https://go.vansh.nyc/1C9"
   },
   "https://go.vansh.nyc/1ca": {
     "title": "AI Engineering Intern, Technology",
@@ -13214,5 +13214,9 @@
   "https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6": {
     "title": "Data Acquisition & Quality Specialist Intern",
     "url": "https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6"
+  },
+  "https://go.vansh.nyc/1c8": {
+    "title": "Vulnerability Researcher Intern",
+    "url": "https://go.vansh.nyc/1C8"
   }
 }
