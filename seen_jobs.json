@@ -752,8 +752,8 @@
     "url": "https://go.vansh.nyc/cr"
   },
   "https://go.vansh.nyc/cv": {
-    "title": "Software Engineer Intern, Compiler",
-    "url": "https://go.vansh.nyc/cv"
+    "title": "Machine Learning Engineer Intern, E-Commerce Knowledge Graph",
+    "url": "https://go.vansh.nyc/Cv"
   },
   "https://go.vansh.nyc/cy": {
     "title": "Machine Learning Engineer Intern, E-Commerce Recommendation Live",
@@ -3248,16 +3248,16 @@
     "url": "https://go.vansh.nyc/1cj"
   },
   "https://go.vansh.nyc/1ck": {
-    "title": "Forward Deployed Engineering Intern",
-    "url": "https://go.vansh.nyc/1ck"
+    "title": "Undergrad Data Science Intern",
+    "url": "https://go.vansh.nyc/1Ck"
   },
   "https://go.vansh.nyc/1cl": {
     "title": "Data Engineering Intern",
     "url": "https://go.vansh.nyc/1cL"
   },
   "https://go.vansh.nyc/1cm": {
-    "title": "Software Development Intern",
-    "url": "https://go.vansh.nyc/1cm"
+    "title": "Architecture Research Engineer Intern, MoE Placement for Serving at Scale",
+    "url": "https://go.vansh.nyc/1Cm"
   },
   "https://go.vansh.nyc/1cn": {
     "title": "Gen AI Intern",
@@ -3288,8 +3288,8 @@
     "url": "https://go.vansh.nyc/1cF"
   },
   "https://go.vansh.nyc/1ci": {
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1cI"
+    "title": "Robotics Intern",
+    "url": "https://go.vansh.nyc/1Ci"
   },
   "https://go.vansh.nyc/1cq": {
     "title": "Software Engineering Co-op, AGS",
@@ -13218,5 +13218,21 @@
   "https://go.vansh.nyc/1c8": {
     "title": "Vulnerability Researcher Intern",
     "url": "https://go.vansh.nyc/1C8"
+  },
+  "https://go.vansh.nyc/1co": {
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/1Co"
+  },
+  "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true": {
+    "title": "AI Consulting Associate Program People Analytics Intern",
+    "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true"
+  },
+  "https://giro.wd10.myworkdayjobs.com/giro/job/montreal-rosemont/hiver-2027---stagiaire-en-dveloppement-logiciel--algorithmes-et-recherche-oprationnelle-_r-100000314": {
+    "title": "Software Developer Intern - Algorithms and Operations Research",
+    "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314"
+  },
+  "https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008": {
+    "title": "Photonics Circuit Simulation Intern – Summer 2027",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008"
   }
 }
