@@ -848,8 +848,8 @@
     "url": "https://go.vansh.nyc/dv"
   },
   "https://go.vansh.nyc/dy": {
-    "title": "Optical Algorithms and Analytics Engineering Co-op",
-    "url": "https://go.vansh.nyc/dy"
+    "title": "Edge AI and Display Hardware Architecture Intern",
+    "url": "https://go.vansh.nyc/dY"
   },
   "https://go.vansh.nyc/dp": {
     "title": "Software Development Engineer Intern",
@@ -13234,5 +13234,33 @@
   "https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008": {
     "title": "Photonics Circuit Simulation Intern – Summer 2027",
     "url": "https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008"
+  },
+  "https://go.vansh.nyc/1cv": {
+    "title": "Research Intern, Computer Vision and Deep Learning",
+    "url": "https://go.vansh.nyc/1Cv"
+  },
+  "https://go.vansh.nyc/1cw": {
+    "title": "LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators",
+    "url": "https://go.vansh.nyc/1Cw"
+  },
+  "https://go.vansh.nyc/1cy": {
+    "title": "GPU Compiler Development Intern, HW",
+    "url": "https://go.vansh.nyc/1Cy"
+  },
+  "https://qualcomm.eightfold.ai/careers/job/446722198182": {
+    "title": "GPU Compiler Development Intern - Interim Engineering Intern - HW",
+    "url": "https://qualcomm.eightfold.ai/careers/job/446722198182"
+  },
+  "https://boards.greenhouse.io/lightmatter/jobs/5479849008": {
+    "title": "Photonics Circuit Simulation Intern",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5479849008"
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5300647007": {
+    "title": "Business Systems Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007"
+  },
+  "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply": {
+    "title": "Robotics Intern - Generalist Robot Learning",
+    "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply"
   }
 }
