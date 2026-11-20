@@ -3280,8 +3280,8 @@
     "url": "https://go.vansh.nyc/1cx"
   },
   "https://go.vansh.nyc/1cb": {
-    "title": "Data Science Co-op",
-    "url": "https://go.vansh.nyc/1cB"
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/1CB"
   },
   "https://go.vansh.nyc/1cf": {
     "title": "Data Science Intern, Enterprise Reporting & Analytics",
@@ -3412,12 +3412,12 @@
     "url": "https://go.vansh.nyc/1ev"
   },
   "https://go.vansh.nyc/1ew": {
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/1ew"
+    "title": "Information Security Intern, Corporate",
+    "url": "https://go.vansh.nyc/1Ew"
   },
   "https://go.vansh.nyc/1ex": {
-    "title": "Software Engineer Intern, FDE / Platform",
-    "url": "https://go.vansh.nyc/1ex"
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/1Ex"
   },
   "https://go.vansh.nyc/1ey": {
     "title": "AI Engineering Intern",
@@ -3452,8 +3452,8 @@
     "url": "https://go.vansh.nyc/1es"
   },
   "https://go.vansh.nyc/1et": {
-    "title": "Forward Deployed Engineer Intern, Software",
-    "url": "https://go.vansh.nyc/1eT"
+    "title": "FPGA Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1Et"
   },
   "https://go.vansh.nyc/1ez": {
     "title": "Software Developer Intern",
@@ -13578,5 +13578,9 @@
   "https://avnan.bamboohr.com/careers/125/": {
     "title": "Electronics Engineering Technologist Co-op",
     "url": "https://avnan.bamboohr.com/careers/125/"
+  },
+  "https://go.vansh.nyc/1ee": {
+    "title": "AI Engineer/Consultant Intern",
+    "url": "https://go.vansh.nyc/1EE"
   }
 }
