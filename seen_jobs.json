@@ -1280,8 +1280,8 @@
     "url": "https://go.vansh.nyc/DO"
   },
   "https://go.vansh.nyc/ds": {
-    "title": "Robotics Engineer Co-op",
-    "url": "https://go.vansh.nyc/dS"
+    "title": "Soft IP ASIC Engineer Intern",
+    "url": "https://go.vansh.nyc/DS"
   },
   "https://go.vansh.nyc/e1": {
     "title": "Firmware Engineer Intern",
@@ -2768,8 +2768,8 @@
     "url": "https://go.vansh.nyc/14A"
   },
   "https://go.vansh.nyc/14c": {
-    "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
-    "url": "https://go.vansh.nyc/14c"
+    "title": "Software Engineer Project Intern, Security-Data",
+    "url": "https://go.vansh.nyc/14C"
   },
   "https://go.vansh.nyc/14d": {
     "title": "Software Engineer Intern, Relational Database",
@@ -3424,8 +3424,8 @@
     "url": "https://go.vansh.nyc/1eY"
   },
   "https://go.vansh.nyc/1eb": {
-    "title": "AI Researcher II Intern",
-    "url": "https://go.vansh.nyc/1Eb"
+    "title": "Software Applications Engineering Intern",
+    "url": "https://go.vansh.nyc/1EB"
   },
   "https://go.vansh.nyc/1ec": {
     "title": "Data Analyst Intern",
@@ -3620,8 +3620,8 @@
     "url": "https://go.vansh.nyc/1hH"
   },
   "https://go.vansh.nyc/1hj": {
-    "title": "Web Software Developer Intern, WFM",
-    "url": "https://go.vansh.nyc/1hJ"
+    "title": "Firmware Engineering Intern, Advanced Development",
+    "url": "https://go.vansh.nyc/1HJ"
   },
   "https://go.vansh.nyc/1hm": {
     "title": "Data Science Intern",
@@ -4980,8 +4980,8 @@
     "url": "https://go.vansh.nyc/1x9"
   },
   "https://go.vansh.nyc/1xa": {
-    "title": "IT Security Intern",
-    "url": "https://go.vansh.nyc/1xa"
+    "title": "Embedded Software Development Intern",
+    "url": "https://go.vansh.nyc/1xA"
   },
   "https://go.vansh.nyc/1xb": {
     "title": "Data Engineering Intern",
@@ -5824,8 +5824,8 @@
     "url": "https://go.vansh.nyc/1b8"
   },
   "https://go.vansh.nyc/1bj": {
-    "title": "Embedded Firmware Intern",
-    "url": "https://go.vansh.nyc/1bJ"
+    "title": "AI & Automation Intern",
+    "url": "https://go.vansh.nyc/1BJ"
   },
   "https://go.vansh.nyc/1d7": {
     "title": "SSD Firmware Intern, CICD",
@@ -13336,7 +13336,7 @@
     "url": "https://boards.greenhouse.io/lightmatter/jobs/5473822008?gh_jid=5473822008"
   },
   "https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f": {
-    "title": "Process Improvement Intern [Summer 2027]",
+    "title": "Process Improvement Intern (L) [Summer 2027]",
     "url": "https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f"
   },
   "https://go.vansh.nyc/1dr": {
@@ -13930,5 +13930,81 @@
   "https://jobs.smartrecruiters.com/redbull/744000163139699": {
     "title": "Data Science Intern",
     "url": "https://jobs.smartrecruiters.com/RedBull/744000163139699"
+  },
+  "https://go.vansh.nyc/1gw": {
+    "title": "Advanced Modeling and AI Solutions Intern",
+    "url": "https://go.vansh.nyc/1GW"
+  },
+  "https://go.vansh.nyc/1h1": {
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1H1"
+  },
+  "https://go.vansh.nyc/1ha": {
+    "title": "Software Engineering Intern, Server, Security",
+    "url": "https://go.vansh.nyc/1Ha"
+  },
+  "https://go.vansh.nyc/1hd": {
+    "title": "Software Engineering Intern, AI/ML Data Products",
+    "url": "https://go.vansh.nyc/1Hd"
+  },
+  "https://go.vansh.nyc/1hu": {
+    "title": "Data Engineering and Data Science Intern",
+    "url": "https://go.vansh.nyc/1Hu"
+  },
+  "https://go.vansh.nyc/1hk": {
+    "title": "AI-Based Scale & Performance Test Automation Intern",
+    "url": "https://go.vansh.nyc/1HK"
+  },
+  "https://www.playfly.com/careers?gh_jid=4486378009": {
+    "title": "Research & Insights Intern",
+    "url": "https://www.playfly.com/careers?gh_jid=4486378009"
+  },
+  "https://hdhl.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/1009005": {
+    "title": "Data Scientist Intern - Water",
+    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005"
+  },
+  "https://draftkings.wd1.myworkdayjobs.com/campus_career_portal/job/boston-ma/data-engineer-intern--summer-2027-_jr15464": {
+    "title": "Data Engineer Intern",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/210806549": {
+    "title": "Applied AI Intern - HR CDAO",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549"
+  },
+  "https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true": {
+    "title": "Robotics Engineering Intern: Systems & Applications",
+    "url": "https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true"
+  },
+  "https://csptest2025.applytojob.com/apply/zkjzabqzka/ai-and-automation-intern-summer-2027": {
+    "title": "AI and Automation Intern",
+    "url": "https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027"
+  },
+  "https://seasats.breezy.hr/p/58eb0549bc6d/apply": {
+    "title": "Electronics Engineering Intern",
+    "url": "https://seasats.breezy.hr/p/58eb0549bc6d/apply"
+  },
+  "https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply": {
+    "title": "Software & AI Intern",
+    "url": "https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf/apply"
+  },
+  "https://careers.noblis.org/jobs/28005?icims=1&lang=en-us": {
+    "title": "Data Innovations Intern",
+    "url": "https://careers.noblis.org/jobs/28005?icims=1&lang=en-us"
+  },
+  "https://careers.viasat.com/jobs/10478?icims=1&lang=en-us": {
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://careers.viasat.com/jobs/10478?icims=1&lang=en-us"
+  },
+  "https://iadugs.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/1948": {
+    "title": "Electrical Engineer Intern",
+    "url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1948"
+  },
+  "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002": {
+    "title": "Computer Vision Intern",
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955802002"
+  },
+  "https://jobs.ashbyhq.com/strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true": {
+    "title": "Machine Learning Engineer Intern - AI/ML Data Products",
+    "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true"
   }
 }
