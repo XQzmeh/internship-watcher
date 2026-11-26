@@ -3756,12 +3756,12 @@
     "url": "https://go.vansh.nyc/1j1"
   },
   "https://go.vansh.nyc/1jh": {
-    "title": "Platform Engineering Intern",
-    "url": "https://go.vansh.nyc/1jh"
+    "title": "Machine Learning Engineer Undergrad Intern",
+    "url": "https://go.vansh.nyc/1Jh"
   },
   "https://go.vansh.nyc/1jk": {
-    "title": "Software Intern",
-    "url": "https://go.vansh.nyc/1jk"
+    "title": "Compiler Engineer Intern",
+    "url": "https://go.vansh.nyc/1Jk"
   },
   "https://go.vansh.nyc/1jn": {
     "title": "Data Engineer Intern",
@@ -3804,8 +3804,8 @@
     "url": "https://go.vansh.nyc/1jJ"
   },
   "https://go.vansh.nyc/1js": {
-    "title": "Full Stack Engineering Intern",
-    "url": "https://go.vansh.nyc/1jS"
+    "title": "Software & Controls Engineering Intern",
+    "url": "https://go.vansh.nyc/1Js"
   },
   "https://go.vansh.nyc/1jt": {
     "title": "DevOps Engineering Intern",
@@ -5904,8 +5904,8 @@
     "url": "https://go.vansh.nyc/1ib"
   },
   "https://go.vansh.nyc/1ih": {
-    "title": "AI Software Development Engineer Intern",
-    "url": "https://go.vansh.nyc/1Ih"
+    "title": "LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation",
+    "url": "https://go.vansh.nyc/1IH"
   },
   "https://go.vansh.nyc/1iz": {
     "title": "Data Scientist Co-op",
@@ -14134,5 +14134,77 @@
   "https://careers.noblis.org/jobs/28841?icims=1&lang=en-us": {
     "title": "AI/ML Research Intern",
     "url": "https://careers.noblis.org/jobs/28841?icims=1&lang=en-us"
+  },
+  "https://go.vansh.nyc/1ja": {
+    "title": "AI/ML Research Intern",
+    "url": "https://go.vansh.nyc/1Ja"
+  },
+  "https://go.vansh.nyc/1jb": {
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1Jb"
+  },
+  "https://go.vansh.nyc/1jc": {
+    "title": "Data Analytics Intern",
+    "url": "https://go.vansh.nyc/1Jc"
+  },
+  "https://go.vansh.nyc/1jd": {
+    "title": "Data Engineer Intern, Enterprise Analytics",
+    "url": "https://go.vansh.nyc/1Jd"
+  },
+  "https://go.vansh.nyc/1jl": {
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1Jl"
+  },
+  "https://go.vansh.nyc/1jm": {
+    "title": "Engineering Data Analytics Intern",
+    "url": "https://go.vansh.nyc/1Jm"
+  },
+  "https://go.vansh.nyc/1jo": {
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1Jo"
+  },
+  "https://go.vansh.nyc/1jp": {
+    "title": "ML Infrastructure Engineer Intern",
+    "url": "https://go.vansh.nyc/1Jp"
+  },
+  "https://www.tesla.com/careers/search/job/291227": {
+    "title": "Robotics Audio DSP Engineer Intern",
+    "url": "https://www.tesla.com/careers/search/job/291227"
+  },
+  "https://tql.avature.net/en_us/tqlexternalcareers/jobdetail/19764": {
+    "title": "Data Science & Analytics Intern",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764"
+  },
+  "https://tql.avature.net/en_us/tqlexternalcareers/jobdetail/19757": {
+    "title": "AI Product Intern",
+    "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757"
+  },
+  "https://jackhenry.avature.net/careers/jobdetail/17682": {
+    "title": "Enterprise Pricing & Data Analytics Intern",
+    "url": "https://jackhenry.avature.net/careers/JobDetail/17682"
+  },
+  "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004": {
+    "title": "DFT Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004"
+  },
+  "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004": {
+    "title": "Post-Silicon Validation Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004"
+  },
+  "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004": {
+    "title": "Physical Design Engineer Intern",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004"
+  },
+  "https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9": {
+    "title": "Data Science Intern",
+    "url": "https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9"
+  },
+  "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true": {
+    "title": "Software Engineering Operating Systems Intern",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true"
+  },
+  "https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008": {
+    "title": "Firmware Intern – Summer 2027",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008"
   }
 }
