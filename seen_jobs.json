@@ -3848,12 +3848,12 @@
     "url": "https://go.vansh.nyc/1ka"
   },
   "https://go.vansh.nyc/1kb": {
-    "title": "Application Software Development Intern",
-    "url": "https://go.vansh.nyc/1kb"
+    "title": "IT Security Intern",
+    "url": "https://go.vansh.nyc/1KB"
   },
   "https://go.vansh.nyc/1kj": {
-    "title": "Backend Engineer Intern",
-    "url": "https://go.vansh.nyc/1kj"
+    "title": "Client Data Management Intern",
+    "url": "https://go.vansh.nyc/1Kj"
   },
   "https://go.vansh.nyc/1kk": {
     "title": "Data Scientist Intern",
@@ -3888,8 +3888,8 @@
     "url": "https://go.vansh.nyc/1ks"
   },
   "https://go.vansh.nyc/1ku": {
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/1kU"
+    "title": "Data Science, Analytics & AI Intern",
+    "url": "https://go.vansh.nyc/1Ku"
   },
   "https://go.vansh.nyc/1kw": {
     "title": "Software Engineer Intern, RFQ",
@@ -14234,5 +14234,37 @@
   "https://careers.amd.com/careers-home/jobs/102333": {
     "title": "Summer 2027 Hardware Engineering Intern",
     "url": "https://careers.amd.com/careers-home/jobs/102333"
+  },
+  "https://go.vansh.nyc/1kn": {
+    "title": "AI Development Intern",
+    "url": "https://go.vansh.nyc/1Kn"
+  },
+  "https://go.vansh.nyc/1kv": {
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1Kv"
+  },
+  "https://go.vansh.nyc/1kc": {
+    "title": "Cloud Security Intern, Technology Group",
+    "url": "https://go.vansh.nyc/1KC"
+  },
+  "https://go.vansh.nyc/1kg": {
+    "title": "IT Architecture Intern",
+    "url": "https://go.vansh.nyc/1KG"
+  },
+  "https://go.vansh.nyc/1ki": {
+    "title": "Data Engineer Co-op",
+    "url": "https://go.vansh.nyc/1KI"
+  },
+  "https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101": {
+    "title": "Hardware Engineer Intern - Placement Year",
+    "url": "https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101"
+  },
+  "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973": {
+    "title": "Data & Analytics Intern",
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973"
+  },
+  "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972": {
+    "title": "Data Science Intern - Science",
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972"
   }
 }
